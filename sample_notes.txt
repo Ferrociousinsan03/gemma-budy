@@ -1,0 +1,4 @@
+TensorFlow is an open-source machine learning framework from Google.
+Flutter builds natively compiled apps for mobile, web and desktop from one codebase.
+Gemma is a family of lightweight open models built from the same research as Gemini.
+Firebase offers backend services such as authentication, databases and hosting.
